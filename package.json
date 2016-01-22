@@ -1,0 +1,17 @@
+{
+  "name": "http2-push",
+  "version": "1.0.0",
+  "description": "Experimental HTTP push proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastiaan Deckers",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "standard": "^5.4.1"
+  }
+}
